@@ -9,17 +9,17 @@ Official Website: [https://www.taosdata.com/cn/](https://www.taosdata.com/cn/)
 
 ##
 
-**PyODDS** is an end-to end **Python** system for **outlier** **detection** with **database** **support**. PyODDS provides outlier detection algorithms which meet the demands for users in different fields, w/wo data science or machine learning background. PyODDS gives the ability to execute machine learning algorithms in-database without moving data out of the database server or over the network. It also provides access to a wide range of outlier detection algorithms, including statistical analysis and more recent deep learning based approaches.  It is developed by [`DATA Lab`](http://faculty.cs.tamu.edu/xiahu/index.html) at Texas A&M University.
+**PyODDS** is an end-to end time series data analysis **Python** system with **TDengine**. PyODDS provides algorithms which meet the demands for users in time series data analysis fields, w/wo data science or machine learning background. PyODDS gives the ability to execute machine learning algorithms in-database without moving data out of the database server or over the network. It also provides access to a wide range of time series data analysis algorithms, including statistical analysis and more recent deep learning based approaches. 
 
 PyODDS is featured for:
 
   - **Full Stack Service** which supports operations and maintenances from light-weight SQL based database to back-end machine learning algorithms and makes the throughput speed faster;
 
-  - **State-of-the-art Anomaly Detection Approaches** including **Statistical/Machine Learning/Deep Learning** models with unified APIs and detailed documentation;
+  - **State-of-the-art Time Series Data Analysis Approaches** including **Statistical/Machine Learning/Deep Learning** models with unified APIs and detailed documentation;
 
-  - **Powerful Data Analysis Mechanism** which supports both **static and time-series data** analysis with flexible time-slice(sliding-window) segmentation.  
+  - **Powerful Data Analysis Mechanism** which supports **time-series data** analysis with flexible time-slice(sliding-window) segmentation.  
   
-  - **Automated Machine Learning** PyODDS describes the first attempt to incorporate automated machine learning with outlier detection, and belongs to one of the first attempts to extend automated machine learning concepts into real-world data mining tasks.
+  - **Automated Machine Learning** PyODDS describes the first attempt to incorporate automated machine learning with time series data, and belongs to one of the first attempts to extend automated machine learning concepts into real-world data mining tasks.
 
 The Full API Reference can be found in [`handbook`](https://pyodds.github.io/).
 
