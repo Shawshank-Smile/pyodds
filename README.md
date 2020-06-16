@@ -185,6 +185,12 @@ The Full API Reference can be found in [`handbook`](https://pyodds.github.io/).
 
 You may use this software under the MIT License.
 
+## Environment configuration
+<!-- Biblatex entry: -->
+Linux：TDengine Server  1.6.5.9 
+
+Windows：TDengine 1.5.5.9 client & Python Connector  https://www.taosdata.com/cn/documentation/connector/#Python-Connector and follows：
+
 1 anaconda 安装
 清华Anaconda镜像地址：https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
 
