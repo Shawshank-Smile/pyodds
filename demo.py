@@ -17,9 +17,12 @@ logging.disable(logging.WARNING)
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description="Anomaly Detection Platform Settings")
+    #TDengine server IP
     parser.add_argument('--host', default='127.0.0.1')
+    #TDengine username，default：root
     parser.add_argument('--user', default='username')
     parser.add_argument('--random_seed',default=42, type=int)
+    #TDengine db
     parser.add_argument('--database',default='db')
     parser.add_argument('--table',default='t')
     parser.add_argument('--time_stamp',const=True,type=str2bool,nargs='?')
@@ -39,6 +42,7 @@ if __name__ == '__main__':
     rng = np.random.RandomState(args.random_seed)
     np.random.seed(args.random_seed)
 
+    #TDengine password，default：taosdata
     password = getpass.getpass("Please input your password:")
 
     #connection configeration
