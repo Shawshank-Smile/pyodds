@@ -184,3 +184,41 @@ The Full API Reference can be found in [`handbook`](https://pyodds.github.io/).
 <!-- Biblatex entry: -->
 
 You may use this software under the MIT License.
+
+1 anaconda 安装
+清华Anaconda镜像地址：https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
+
+2 全部装上吧
+https://github.com/Shawshank-Smile/pyodds
+pandas>=0.24.0
+	tensorflow==2.0.0b1
+	numpy>=1.16.4
+	seaborn>=0.9.0
+	torch>=1.1.0
+	luminol==0.4
+	hyperopt==0.2.3
+	tqdm>=4.35.0
+	matplotlib>=3.0.0
+	scikit_learn>=0.21.3
+	
+3  https://blog.csdn.net/ANNILingMo/article/details/88032599
+https://www.cnblogs.com/andrew-address/p/12733669.html （这个是可以的）
+	Torch 没有安装成功，先不搞了。如果需要安装，参考以上的链接吧。
+
+4 安装vscode
+
+5 vscode 使用anaconda的环境
+https://blog.csdn.net/m0_45161766/article/details/105729025
+https://www.cnblogs.com/lataku/p/10743257.html
+
+6 vscode 配置 git
+https://www.cnblogs.com/ostrich-sunshine/p/11329444.html
+
+7 Git安装教程（windows）
+https://www.cnblogs.com/wj-1314/p/7993819.html
+
+8 git配置 
+https://www.cnblogs.com/lucy-xyy/p/11733317.html
+https://www.cnblogs.com/ashidamana/p/6122619.html
+https://www.cnblogs.com/wj-1314/p/7992543.html
+
