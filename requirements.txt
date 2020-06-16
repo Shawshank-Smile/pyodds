@@ -8,3 +8,5 @@ hyperopt==0.2.3
 tqdm>=4.35.0
 matplotlib>=3.0.0
 scikit_learn>=0.21.3
+
+now tdengine=1.6.5.9
