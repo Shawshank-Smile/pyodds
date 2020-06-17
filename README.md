@@ -6,6 +6,7 @@
 [![PyPI version](https://badge.fury.io/py/pyodds.svg)](https://badge.fury.io/py/pyodds)
 
 Official Website: [https://www.taosdata.com/cn/](https://www.taosdata.com/cn/)
+
 TDengine Version：1.6.5.9
 
 ##
