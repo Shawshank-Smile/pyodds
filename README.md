@@ -7,7 +7,7 @@
 
 Official Website: [https://www.taosdata.com/cn/](https://www.taosdata.com/cn/)
 
-TDengine Version：1.6.5.9  Any question about TDengine, wechat : 13720014098
+TDengine Version：1.6.5.9	Any question about TDengine, wechat : 13720014098
 
 ##
 
