@@ -102,6 +102,21 @@ pip install git+git@github.com:datamllab/PyODDS.git
 - matplotlib>=3.1.1
 - scikit_learn>=0.21.3
 ```
+目前测试的环境：
+```sh
+pandas =1.0.3
+tensorflow =2.1.0
+numpy=1.18.1
+seaborn=0.10.1
+torch=1.4.0+cpu
+luminol=0.4
+hyperopt=0.2.4
+tqdm=4.46.0
+matplotlib=3.1.3
+scikit_learn=0.23.1
+```
+
+
 To compile and package the JDBC driver source code, you should have a Java jdk-8 or higher and Apache Maven 2.7 or higher installed. To install openjdk-8 on Ubuntu:
 
 ```sh
@@ -196,16 +211,16 @@ Windows：TDengine 1.5.5.9 client & Python Connector  https://www.taosdata.com/c
 
 2 全部装上吧
 https://github.com/Shawshank-Smile/pyodds
-pandas>=0.24.0
-	tensorflow==2.0.0b1
-	numpy>=1.16.4
-	seaborn>=0.9.0
-	torch>=1.1.0
-	luminol==0.4
-	hyperopt==0.2.3
-	tqdm>=4.35.0
-	matplotlib>=3.0.0
-	scikit_learn>=0.21.3
+pandas =1.0.3
+tensorflow =2.1.0
+numpy=1.18.1
+seaborn=0.10.1
+torch=1.4.0+cpu
+luminol=0.4
+hyperopt=0.2.4
+tqdm=4.46.0
+matplotlib=3.1.3
+scikit_learn=0.23.1
 	
 3  https://blog.csdn.net/ANNILingMo/article/details/88032599
 https://www.cnblogs.com/andrew-address/p/12733669.html （这个是可以的）
